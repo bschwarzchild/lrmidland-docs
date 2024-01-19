@@ -1,7 +1,6 @@
 # Changing your Password at the new system
 
-|---|---|---|
-| # | Step | Remarks |
+
 
 #	Step	Remarks
 1	Login at the system	https://lrmidland.azurewebsites.net
